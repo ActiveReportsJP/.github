@@ -1,6 +1,6 @@
 # ActiveReports for .NET
 
-## ActiveReports for .NET 18.0J
+## 18.0J
 - [.NET帳票コンポーネント](https://developer.mescius.jp/activereports)
 - [デモアプリケーション](https://developer.mescius.jp/activereports/demo)
 - [ActiveReportsユーザーガイド](https://docs.mescius.jp/help/activereports-18/#overview.html)
