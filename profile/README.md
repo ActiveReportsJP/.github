@@ -1,4 +1,4 @@
-# ActiveReports for .NET
+# ActiveReports
 
 ## ActiveReports for .NET
 - [.NET帳票コンポーネント](https://developer.mescius.jp/activereports)
