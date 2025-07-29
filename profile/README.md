@@ -11,3 +11,7 @@
 ## ActiveReportsJS
 - [JavaScript帳票ライブラリ](https://developer.mescius.jp/activereportsjs)
 - [ActiveReportsJS デモ](https://demo.mescius.jp/activereportsjs/demos/)
+
+### v5.1J
+- [ヘルプ](https://demo.mescius.jp/activereportsjs/docs/v5.1/GettingStarted/Introduction)
+- [ナレッジベース](https://support.mescius.jp/hc/ja/categories/360000708915)
