@@ -5,7 +5,7 @@
 - [デモアプリケーション](https://developer.mescius.jp/activereports/demo)
 
 ### 18.0J
-- [ActiveReportsユーザーガイド](https://docs.mescius.jp/help/activereports-18/#overview.html)
+- [ヘルプ](https://docs.mescius.jp/help/activereports-18/#overview.html)
 - [ナレッジベース](https://support.mescius.jp/hc/ja/categories/9172336363023)
 
 ## ActiveReportsJS
