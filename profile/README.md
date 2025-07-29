@@ -9,3 +9,5 @@
 - [ナレッジベース](https://support.mescius.jp/hc/ja/categories/9172336363023)
 
 ## ActiveReportsJS
+- [JavaScript帳票ライブラリ](https://developer.mescius.jp/activereportsjs)
+- [ActiveReportsJS デモ](https://demo.mescius.jp/activereportsjs/demos/)
