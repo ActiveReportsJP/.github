@@ -16,6 +16,12 @@ ActiveReportsとは、レイアウトや書式といった外観デザインの�
 - [JavaScript帳票ライブラリ](https://developer.mescius.jp/activereportsjs)
 - [ActiveReportsJS デモ](https://demo.mescius.jp/activereportsjs/demos/)
 
+<!--
+### v6J
+- [ヘルプ](https://demo.mescius.jp/activereportsjs/docs/v6/GettingStarted/Introduction)
+- [ナレッジベース](https://support.mescius.jp/hc/ja/categories/360000708915)
+-->
+
 ### v5.2J
 - [ヘルプ](https://demo.mescius.jp/activereportsjs/docs/v5.2/GettingStarted/Introduction)
 - [ナレッジベース](https://support.mescius.jp/hc/ja/categories/360000708915)
@@ -24,3 +30,6 @@ ActiveReportsとは、レイアウトや書式といった外観デザインの�
 - [ヘルプ](https://demo.mescius.jp/activereportsjs/docs/v5.1/GettingStarted/Introduction)
 - [ナレッジベース](https://support.mescius.jp/hc/ja/categories/360000708915)
 
+### v5J
+- [ヘルプ](https://demo.mescius.jp/activereportsjs/docs/v5/GettingStarted/Introduction)
+- [ナレッジベース](https://support.mescius.jp/hc/ja/categories/360000708915)
